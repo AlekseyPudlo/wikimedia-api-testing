@@ -13,7 +13,7 @@ What things you need to install the software and how to install them:
 A step by step series of examples that tell you how to get a development environment running:
 
 1. Clone the repository to your local machine:
-`git clone git@github.com:AlekseyPudlo/Wikimedia-API-Testing.git`.
+`git clone git@github.com:AlekseyPudlo/wikimedia-api-testing.git`.
 
 
 2. Navigate to the project directory:
